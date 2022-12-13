@@ -1,7 +1,11 @@
 # Wordpress scanning
 
 
-This tools made by h0rn3t sp1d3rs
+This tools made by h0rn3t sp1d3rs.
+This is an online WordPress Scanner
+for detecting and reporting WordPress site.
+This tool detect almost 90% acutestluy
+detecting and reporting WordPress site.
 
 
 ```
@@ -12,11 +16,11 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/H0rn3t-Sp1d3rs/wpscan
+$ git clone https://github.com/H0rn3t-Sp1d3rs/reverse_ip
 
-$ cd wpscan
+$ cd reverse_ip
 
-$ python wp2.py
+$ python bads.py
 
 ```
 <br>
