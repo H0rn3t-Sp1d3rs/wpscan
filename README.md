@@ -12,11 +12,11 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/H0rn3t-Sp1d3rs/reverse_ip
+$ git clone https://github.com/H0rn3t-Sp1d3rs/wpscan
 
-$ cd reverse_ip
+$ cd wpscan
 
-$ python bads.py
+$ python wp2.py
 
 ```
 <br>
